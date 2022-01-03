@@ -24,3 +24,6 @@ yarn-error.log*
 
 #Anotações
 anotações.txt
+
+#API FAKE
+server.json
