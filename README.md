@@ -3,8 +3,8 @@ Projeto criado com React.js no curso "React.js do 0 ao avançado" da instituiç�
 
 ## Minha aplicação:
 
-<img src="./public/Screenshots/img1.PNG" />
-<img src="./public/Screenshots/img2.PNG" />
+<img src="./public/ScreenShots/img1.PNG" />
+<img src="./public/ScreenShots/img2.PNG" />
 
 
 ## Tecnologias utilizadas:
