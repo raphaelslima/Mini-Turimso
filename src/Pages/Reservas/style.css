@@ -1,0 +1,74 @@
+h1 {
+  color: #ffff;
+
+  margin: 10px 0 20px;
+}
+
+.reservas {
+  background-color: #ffff;
+
+  padding: 30px;
+
+  border-radius: 4px;
+
+  height: 200px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  font-size: 16px;
+
+  margin-bottom: 20px;
+}
+
+.reservas img {
+  width: 220px;
+  height: 150px;
+
+  border-radius: 4px;
+}
+
+.reservas strong {
+  color: black;
+  font-weight: bold;
+}
+
+.btn-qtd {
+  display: flex;
+  align-items: center;
+}
+
+.btn-qtd input {
+  width: 45px;
+  height: 30px;
+
+  margin: 0 5px;
+  padding: 5px;
+
+  text-align: center;
+  font-size: 14px;
+}
+
+footer a {
+  background-color: #ffff;
+
+  padding: 10px;
+
+  border-radius: 4px;
+
+  cursor: pointer;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 140px;
+
+  transition: 0.4s;
+}
+
+footer a:hover {
+  background-color: gray;
+  color: #ffff;
+}

@@ -1,0 +1,72 @@
+.box {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+  list-style: none;
+}
+
+.box li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #ffff;
+  padding: 15px;
+
+  border-radius: 4px;
+}
+
+.box img {
+  max-width: 280px;
+  max-height: 220px;
+
+  border-radius: 4px;
+}
+
+.box .text {
+  background-color: #ffff;
+}
+
+.box strong {
+  padding: 5px;
+  background-color: #ffff;
+}
+
+.box a {
+  padding: 5px;
+
+  background-color: #242424;
+  color: #ffff;
+  border-radius: 8px;
+
+  cursor: pointer;
+
+  width: 80%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box a span {
+  margin-left: 4px;
+}
+
+.box .disponível {
+  color: green;
+
+  font-weight: bold;
+
+  padding: 5px;
+  background-color: #ffff;
+}
+
+.box .indisponível {
+  color: red;
+
+  font-weight: bold;
+
+  padding: 5px;
+  background-color: #ffff;
+}
